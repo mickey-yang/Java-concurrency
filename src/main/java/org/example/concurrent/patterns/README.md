@@ -1,5 +1,6 @@
 # Advanced Java 8 Concurrent Patterns
 Author: Jose Paumard
+
 Link: https://app.pluralsight.com/library/courses/java-concurrent-patterns-advanced/table-of-contents
 <br>
 ## Topics
